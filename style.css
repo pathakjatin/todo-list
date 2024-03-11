@@ -50,7 +50,7 @@ header .nav{
     justify-content: center;
     align-items: center;
 }
-header nav img{
+header nav svg{
     width: 25px;
     height: 25px;
     filter: invert(1);
